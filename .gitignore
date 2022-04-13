@@ -1,0 +1,7 @@
+.git/
+.vs/
+bin/*
+bin/Release/
+obj/*
+DiscordBot/bin/
+DiscordBot/obj/

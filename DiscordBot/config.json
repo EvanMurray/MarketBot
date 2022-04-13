@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "ConnectionStrings": {
+
+    "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=NinBotContext;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "DockerConnection": "Server=sql-server-db,1433;Database=nindb;User=;Password=;"
+  }
+}
