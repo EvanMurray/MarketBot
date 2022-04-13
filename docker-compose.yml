@@ -4,7 +4,7 @@ services:
         build:
             context: .
             dockerfile: DiscordBot/Dockerfile
-        image: ninbot
+        image: marketbot
         depends_on:
             - sql-server-db
     sql-server-db:
